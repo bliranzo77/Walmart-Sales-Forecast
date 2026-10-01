@@ -1,0 +1,9 @@
+# Dataset (download from Kaggle instead of storing it in the repo)
+*.csv
+!model_results.csv
+
+# Notebook and Python clutter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
